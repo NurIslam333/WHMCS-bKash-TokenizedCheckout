@@ -17,9 +17,9 @@ Support all major WHMCS version including version 6, 7 & 8.
 ```
 
 ### FAQs
-Q. Do you provide API for this extension?
-Answer: No! You will need to contact your bKash account manager.
-Q. I've found an error where I can report?
-Answer: Please report your issue here: https://github.com/NurIslam333/WHMCS-bKash-TokenizedCheckout/issues/new
-Q. How can I get the API credential?
-Answer: Please sign up with your merchant account here https://pgw-integration.bkash.com
+* Q. Do you provide API for this extension?
+- Answer: No! You will need to contact your bKash account manager.
+* Q. I've found an error where I can report?
+- Answer: Please report your issue here: https://github.com/NurIslam333/WHMCS-bKash-TokenizedCheckout/issues/new
+* Q. How can I get the API credential?
+- Answer: Please sign up with your merchant account here https://pgw-integration.bkash.com
