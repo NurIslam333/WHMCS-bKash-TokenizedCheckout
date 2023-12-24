@@ -246,7 +246,7 @@ function refund_interpret($status, $rawdata = "", $transid = null)
 function checkoutUrl($params)
 {
     $apiUrl = $params['systemurl'] . 'modules/gateways/callback/' . $params['paymentmethod'] . '.php';
-    $bkashLogo = 'https://sajjadhossain.pages.dev/img/paywithbkash.svg';
+    $bkashLogo = 'https://secure.hosthab.com/bkash.svg';
     $_SESSION['hash'] = md5(uniqid(mt_rand(), true));
     $token = $_SESSION['hash'];
 
